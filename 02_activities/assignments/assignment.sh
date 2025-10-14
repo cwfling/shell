@@ -65,7 +65,7 @@ rm *ipaddr*.log
 
 # 8. Create a file named ./data/inventory.txt that lists all the files in the subfolders of ./data/processed
 
-cd ..
+cd ../..
 ls processed/*/* > inventory.txt
 
 ###########################################
