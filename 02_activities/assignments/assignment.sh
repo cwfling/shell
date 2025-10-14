@@ -53,7 +53,7 @@ cp *server*.log ../processed/server_logs/
 
 # 6. Repeat the above step for user logs and event logs
 
-cp *user*.log ../processed/user_logs/git
+cp *user*.log ../processed/user_logs/
 cp *event*.log ../processed/event_logs/
 
 
