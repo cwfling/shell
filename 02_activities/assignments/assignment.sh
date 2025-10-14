@@ -50,7 +50,7 @@ mkdir server_logs user_logs event_logs
 # Combined 5 and 7 to remove redundant commands later
 
 cd ../raw
-rm *ipaddr*.log
+rm *ipaddr*
 cp *server*.log ../processed/server_logs/
 
 # 6. Repeat the above step for user logs and event logs
