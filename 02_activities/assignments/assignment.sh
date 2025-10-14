@@ -69,3 +69,4 @@ ls processed/*/* > inventory.txt
 ###########################################
 
 echo "Project setup is complete!"
+ 
